@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jokesApp</string>
+    <string name="this_app_has_opened_0_times">This app has opened %d times</string>
+    <string name="something_happened_n_try_to_refresh">SomeThing Happened :( \n<br>Try to refresh</br></string>
+</resources>
